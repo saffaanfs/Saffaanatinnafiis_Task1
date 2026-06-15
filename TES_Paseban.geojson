@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TES_Paseban",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"features": [
+{ "type": "Feature", "properties": { "nama": "MI Assuniyah 45", "longitude": 113.348223, "latitude": -8.312182, "field_4": null, "field_5": null, "field_6": null, "field_7": null }, "geometry": { "type": "Point", "coordinates": [ 758641.452525382395834, 9080423.141027078032494 ] } },
+{ "type": "Feature", "properties": { "nama": "Kantor Desa Paseban", "longitude": 113.334562, "latitude": -8.307, "field_4": null, "field_5": null, "field_6": null, "field_7": null }, "geometry": { "type": "Point", "coordinates": [ 757139.354561936459504, 9081005.385912425816059 ] } },
+{ "type": "Feature", "properties": { "nama": "Pasar Igir-Igir Cakru", "longitude": 113.335904, "latitude": -8.298361, "field_4": null, "field_5": null, "field_6": null, "field_7": null }, "geometry": { "type": "Point", "coordinates": [ 757292.877965018153191, 9081960.349836245179176 ] } },
+{ "type": "Feature", "properties": { "nama": "Masjid Nur Islam", "longitude": 113.330253, "latitude": -8.295287, "field_4": null, "field_5": null, "field_6": null, "field_7": null }, "geometry": { "type": "Point", "coordinates": [ 756672.102618302102201, 9082304.123713344335556 ] } },
+{ "type": "Feature", "properties": { "nama": null, "longitude": null, "latitude": null, "field_4": null, "field_5": null, "field_6": null, "field_7": "," }, "geometry": null }
+]
+}
